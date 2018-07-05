@@ -1,0 +1,10 @@
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\bin\Debug\Dokumentator.exe.config
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\bin\Debug\Dokumentator.exe
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\bin\Debug\Dokumentator.pdb
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.csprojResolveAssemblyReference.cache
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.Dokumentator.resources
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.Properties.Resources.resources
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.csproj.GenerateResource.Cache
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.exe
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.pdb
+c:\users\ryty\documents\visual studio 2015\Projects\Dokumentator\Dokumentator\obj\Debug\Dokumentator.csproj.ResolveComReference.cache
